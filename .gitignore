@@ -1,0 +1,17 @@
+# Mac Files
+*.DS_Store
+
+# Windows Files
+Thumbs.db
+
+# Node Files
+node_modules
+
+# Vite Files
+dist
+
+# Cache Files
+.cache
+
+# Logs
+npm-debug.log*
